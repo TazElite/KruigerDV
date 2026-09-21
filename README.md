@@ -1,3 +1,5 @@
+![KruigerDV](assets/banner.png)
+
 # KruigerDV
 
 A simple standalone FiveM vehicle deletion script that allows players to quickly delete their current or nearby vehicle using `/dv`.
