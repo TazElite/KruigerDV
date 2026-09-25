@@ -33,3 +33,7 @@ Kruiger Labs LLC (`KruigerLabs`)
 
 ## License
 Licensed under the **Kruiger Labs Community License v1.0**. You may use and privately modify this resource for your own FiveM server, but redistribution, reuploading, resale, sublicensing, and claiming the work as your own are prohibited. See `LICENSE` for the complete terms.
+
+## Kruiger Labs
+
+**Project Page:** https://kruigerlabs.xyz/projects/KruigerDV/
