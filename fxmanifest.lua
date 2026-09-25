@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'KruigerLabs'
-description 'A simple standalone vehicle deletion script for FiveM.'
+author 'Kruiger Labs LLC'
+description 'Free standalone FiveM DV script with configurable vehicle deletion and /dv command.'
 version '1.0.0'
 
 shared_script 'config.lua'
